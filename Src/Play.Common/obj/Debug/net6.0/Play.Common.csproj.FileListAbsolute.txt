@@ -1,0 +1,12 @@
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/bin/Debug/net6.0/Play.Common.deps.json
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/bin/Debug/net6.0/Play.Common.dll
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/bin/Debug/net6.0/Play.Common.pdb
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/obj/Debug/net6.0/Play.Common.csproj.AssemblyReference.cache
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/obj/Debug/net6.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/obj/Debug/net6.0/Play.Common.AssemblyInfoInputs.cache
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/obj/Debug/net6.0/Play.Common.AssemblyInfo.cs
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/obj/Debug/net6.0/Play.Common.csproj.CoreCompileInputs.cache
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/obj/Debug/net6.0/Play.Common.dll
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/obj/Debug/net6.0/refint/Play.Common.dll
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/obj/Debug/net6.0/Play.Common.pdb
+/Users/madhavimuppa/Desktop/Angular/Microservices/Play.Common/Src/Play.Common/obj/Debug/net6.0/ref/Play.Common.dll
